@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: CoA Teleports
+## Notes: Browse every teleport (stock + CoA) and click to go. GM only. /tp
+## Version: 1.0
+## SavedVariables: CoATeleportsDB
+TeleportData.lua
+CoA_Teleports.lua
